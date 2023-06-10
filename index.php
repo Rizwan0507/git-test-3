@@ -8,5 +8,10 @@
 <body>
     <h2>Hello world</h2>
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae, porro!</p>
+<ul>
+    <li>Rizwan maulana</li>
+    <li>Sandika Galih</li>
+</ul>
+
 </body>
 </html>
