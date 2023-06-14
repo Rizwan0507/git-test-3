@@ -12,6 +12,7 @@
     <li>Rizwan maulana</li>
     <li>Sandika Galih</li>
 </ul>
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste quia similique eligendi obcaecati est consectetur reprehenderit illo ipsa, voluptate soluta!
 
 </body>
 </html>
